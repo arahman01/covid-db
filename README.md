@@ -1,4 +1,5 @@
 # covid-db
+
 We are going through challenging times due to the corona virus pandemic
 that has swept the world. Technology is at the forefront of the battle against
 Covid-19. It is of prime importance to have a central database pertaining to
@@ -14,3 +15,5 @@ conditions under which the hospitals are operating. This database will also
 track the travel history of all patients, domestically and internationally,
 enabling it to predict patterns in cases and identifying potential Covid-19
 hotspots.
+
+Technologies used: PHP, MYSQLi, Bootstrap, HTML, CSS, Chart Js, XAMPP
