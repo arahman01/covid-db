@@ -1,0 +1,33 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+/*--Header---*/
+#header
+{
+	height:100px !important;
+}
+#gov_logo{
+	max-width: 150%;
+	height:auto;
+}
+.headcontainer{
+	border-top: 12px;
+	border-bottom: 12px;
+	text-align: center;
+}
+.content-header{
+	padding-top: 10px;
+	max-height: auto;
+	border-bottom: 12px;
+	border-bottom-color: #355a61;
+}
+.content-header1{
+	background-color:  #355a61;
+	display: flex;
+	height:30px;	
+}
+
